@@ -55,7 +55,9 @@ public class Main {
 
 				System.out.println("사칙연산 게임을 종료합니다. ");
 				break;
+				
 			}
+			System.out.println("수정");
 		}
 		sc.close();
 	}
